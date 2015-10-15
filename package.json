@@ -1,0 +1,27 @@
+{
+  "name": "rsmars",
+  "version": "1.0.0",
+  "description": "For Nodejs Promise/A+ Development&Test",
+  "main": "hello.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rsmars/RSPromise.git"
+  },
+  "keywords": [
+    "Promise",
+    "Promise/A+"
+  ],
+  "author": "Liao Weibo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsmars/RSPromise/issues"
+  },
+  "homepage": "https://github.com/rsmars/RSPromise"
+}
