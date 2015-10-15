@@ -1,6 +1,6 @@
 #ToDo Files
-hello.js
+node_modules
 #Temp Files
 /*.bak
+/npm-debug.log
 #Temp Test Files
-test.js
