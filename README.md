@@ -8,8 +8,10 @@ Promise.js exports an Object with:
 * GetState Method: return the status of the promise(Pending ,Fulfilled, Rejected);
   
 #Test
+Thanks to Domenic Denicola <d@domenic.me>
 
-Thanks to Domenic Denicola <d@domenic.me>;
 Git : https://github.com/promises-aplus/promises-tests.git;
+
 This Promise has passed all cases;
+
 Run "node test.js" to test the file;
